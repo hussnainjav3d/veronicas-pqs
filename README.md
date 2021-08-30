@@ -22,6 +22,7 @@ Your IDE must have these extensions installed
 ###### Some predefined rules to follow while coding
 
 * Only Arrow functions must be used
+* If you have to create a component, dont just create file, follow the predefined components protocol. Create a directory with component name and place an index file and write your component there
 * Directory name must start with capital letter
 * Files name must start with small letter
 * Redux should be only doing state management not api calling
