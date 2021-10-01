@@ -10,6 +10,7 @@ Your IDE must have these extensions installed
 ###### Things we have configured alredy
 
 * Redux setup
+* React Query setup
 * Eslint setup
 * Prettier setup
 * Tailwind setup
@@ -22,6 +23,7 @@ Your IDE must have these extensions installed
 ###### Some predefined rules to follow while coding
 
 * Only Arrow functions must be used
+* Only react query should be used for the data fetching purposes
 * If you have to create a component, dont just create file, follow the predefined components protocol. Create a directory with component name and place an index file and write your component there
 * Directory name must start with capital letter
 * Files name must start with small letter
